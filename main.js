@@ -1,5 +1,5 @@
 let family = {
-  revenue: [1000, 200, 200],
+  revenue: [2000, 200, 200],
   expense: [500, 300, 100]
 }
 
